@@ -1,4 +1,4 @@
 # Modern_Computational_Statistics
 Modern Computational Statistics
 
-Python implementation for the statistical models.
+Python implementation for statistical models.
