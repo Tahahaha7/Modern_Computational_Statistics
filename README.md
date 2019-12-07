@@ -1,4 +1,7 @@
 # Modern_Computational_Statistics
-Modern Computational Statistics
+MODERN COMPUTATIONAL STATISTICS
 
-Python implementation for statistical models.
+- **Assignment II:** Call center data modeling.
+- **Assignment III:** Using Stan Models.
+- **LBA:** The Cost of Basic Goods in Berlin & London
+- **Assignemnt IV:** Model Checking
