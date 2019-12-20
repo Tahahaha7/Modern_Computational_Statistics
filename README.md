@@ -3,5 +3,6 @@ MODERN COMPUTATIONAL STATISTICS
 
 - **Assignment II:** Call center data modeling.
 - **Assignment III:** Using Stan Models.
-- **LBA:** The Cost of Basic Goods in Berlin & London
-- **Assignemnt IV:** Model Checking
+- **LBA:** Modeling Grocery Prices.
+- **Assignemnt IV:** Model Checking.
+- **Final Project:** Forecasting Carbon Dioxide.
