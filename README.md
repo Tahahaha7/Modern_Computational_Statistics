@@ -6,3 +6,6 @@ MODERN COMPUTATIONAL STATISTICS
 - **LBA:** Modeling Grocery Prices.
 - **Assignemnt IV:** Model Checking.
 - **Final Project:** Forecasting Carbon Dioxide.
+
+
+![Github MCMC_MH](https://github.com/Tahahaha7/Modern_Computational_Statistics/blob/master/MCMC_MH.png) 
